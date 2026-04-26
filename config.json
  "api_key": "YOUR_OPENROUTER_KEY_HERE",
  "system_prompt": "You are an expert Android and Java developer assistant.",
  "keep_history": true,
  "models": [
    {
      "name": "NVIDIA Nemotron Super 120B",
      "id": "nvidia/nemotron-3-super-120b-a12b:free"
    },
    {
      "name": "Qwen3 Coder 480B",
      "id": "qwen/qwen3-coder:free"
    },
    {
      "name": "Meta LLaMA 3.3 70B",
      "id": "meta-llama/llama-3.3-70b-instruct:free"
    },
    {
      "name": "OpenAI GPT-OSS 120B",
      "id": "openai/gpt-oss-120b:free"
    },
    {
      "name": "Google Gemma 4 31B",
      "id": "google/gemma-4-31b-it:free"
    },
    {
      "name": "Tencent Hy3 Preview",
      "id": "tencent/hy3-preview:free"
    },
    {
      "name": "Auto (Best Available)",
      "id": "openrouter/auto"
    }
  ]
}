@@ -1,0 +1,35 @@
+{
+  "api_key": "YOUR_OPENROUTER_KEY_HERE",
+  "system_prompt": "You are an expert Android and Java developer assistant.",
+  "keep_history": true,
+  "models": [
+    {
+      "name": "NVIDIA Nemotron Super 120B",
+      "id": "nvidia/nemotron-3-super-120b-a12b:free"
+    },
+    {
+      "name": "Qwen3 Coder 480B",
+      "id": "qwen/qwen3-coder:free"
+    },
+    {
+      "name": "Meta LLaMA 3.3 70B",
+      "id": "meta-llama/llama-3.3-70b-instruct:free"
+    },
+    {
+      "name": "OpenAI GPT-OSS 120B",
+      "id": "openai/gpt-oss-120b:free"
+    },
+    {
+      "name": "Google Gemma 4 31B",
+      "id": "google/gemma-4-31b-it:free"
+    },
+    {
+      "name": "Tencent Hy3 Preview",
+      "id": "tencent/hy3-preview:free"
+    },
+    {
+      "name": "Auto (Best Available)",
+      "id": "openrouter/auto"
+    }
+  ]
+}
