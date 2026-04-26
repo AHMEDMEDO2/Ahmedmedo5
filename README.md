@@ -8,7 +8,7 @@ A colorful terminal AI chat powered by OpenRouter — works on Termux, Linux, an
 ```bash
 pkg install python git
 pip install requests
-git clone https://github.com/YOUR_USERNAME/adrinal-cli
+git clone https://github.com/AHMEDMEDO2/adrinal-cli
 cd adrinal-cli
 cp config.example.json config.json
 nano config.json
